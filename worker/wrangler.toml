@@ -1,0 +1,10 @@
+name = "course-tracker"
+type = "javascript"
+
+account_id = "cf88de07a5c929e0580f1489eb4a399a"
+workers_dev = true
+
+[vars]
+AIRTABLE_BASE_ID = "appuoorn3chpgSH2b"
+AIRTABLE_TABLE_NAME = "Course Tracker"
+FORM_URL = "https://course-tracker.inna-forkert.workers.dev"
